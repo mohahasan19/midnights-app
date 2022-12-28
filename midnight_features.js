@@ -1,0 +1,160 @@
+let midnight_features = [
+  {
+    danceability: 0.662,
+    energy: 0.357,
+    mode: 1,
+    speechiness: 0.154,
+    acousticness: 0.553,
+    instrumentalness: 0.00129,
+    liveness: 0.0837,
+    valence: 0.124,
+    tempo: 125.966,
+    id: '7FmYn9e7KHMXcxqGSj9LjH'
+  },
+  {
+    danceability: 0.337,
+    energy: 0.156,
+    mode: 1,
+    speechiness: 0.0518,
+    acousticness: 0.964,
+    instrumentalness: 0.0000772,
+    liveness: 0.115,
+    valence: 0.39,
+    tempo: 176.655,
+    id: '0wavGRldH0AWyu2zvTz8zb'
+  },
+  {
+    danceability: 0.642,
+    energy: 0.62,
+    mode: 1,
+    speechiness: 0.0666,
+    acousticness: 0.0734,
+    instrumentalness: 0,
+    liveness: 0.483,
+    valence: 0.0969,
+    tempo: 90.02,
+    id: '7KokYm8cMIXCsGVmUvKtqf'
+  },
+  {
+    danceability: 0.406,
+    energy: 0.306,
+    mode: 1,
+    speechiness: 0.0517,
+    acousticness: 0.785,
+    instrumentalness: 0.488,
+    liveness: 0.122,
+    valence: 0.122,
+    tempo: 110.014,
+    id: '0A1JLUlkZkp2EFrosoNQi0'
+  },
+  {
+    danceability: 0.696,
+    energy: 0.559,
+    mode: 1,
+    speechiness: 0.0693,
+    acousticness: 0.0618,
+    instrumentalness: 0.0000558,
+    liveness: 0.0887,
+    valence: 0.433,
+    tempo: 163.999,
+    id: '3qoftcUZaUOncvIYjFSPdE'
+  },
+  {
+    danceability: 0.798,
+    energy: 0.277,
+    mode: 0,
+    speechiness: 0.39,
+    acousticness: 0.173,
+    instrumentalness: 0.0000525,
+    liveness: 0.121,
+    valence: 0.163,
+    tempo: 79.846,
+    id: '1xwAWUI6Dj0WGC3KiUPN0O'
+  },
+  {
+    danceability: 0.733,
+    energy: 0.436,
+    mode: 1,
+    speechiness: 0.08,
+    acousticness: 0.258,
+    instrumentalness: 0.000573,
+    liveness: 0.157,
+    valence: 0.0976,
+    tempo: 96.985,
+    id: '5jQI2r1RdgtuT8S3iG8zFC'
+  },
+  {
+    danceability: 0.637,
+    energy: 0.398,
+    mode: 1,
+    speechiness: 0.0564,
+    acousticness: 0.0573,
+    instrumentalness: 0.00000103,
+    liveness: 0.101,
+    valence: 0.0374,
+    tempo: 108.075,
+    id: '3eX0NZfLtGzoLUxPNvRfqm'
+  },
+  {
+    danceability: 0.637,
+    energy: 0.643,
+    mode: 1,
+    speechiness: 0.0519,
+    acousticness: 0.13,
+    instrumentalness: 0.0000018,
+    liveness: 0.142,
+    valence: 0.533,
+    tempo: 97.008,
+    id: '0V3wPSX9ygBnCm8psDIegu'
+  },
+  {
+    danceability: 0.663,
+    energy: 0.319,
+    mode: 1,
+    speechiness: 0.0375,
+    acousticness: 0.69,
+    instrumentalness: 0.000993,
+    liveness: 0.117,
+    valence: 0.193,
+    tempo: 109.957,
+    id: '1wtOxkiel43cVs0Yux5Q4h'
+  },
+  {
+    danceability: 0.696,
+    energy: 0.396,
+    mode: 1,
+    speechiness: 0.0656,
+    acousticness: 0.401,
+    instrumentalness: 0.0000052,
+    liveness: 0.125,
+    valence: 0.38,
+    tempo: 120.041,
+    id: '4D7BCuvgdJlYvlX5WlN54t'
+  },
+  {
+    danceability: 0.643,
+    energy: 0.363,
+    mode: 1,
+    speechiness: 0.0767,
+    acousticness: 0.69,
+    instrumentalness: 0.0000517,
+    liveness: 0.115,
+    valence: 0.23,
+    tempo: 139.865,
+    id: '3rWDp9tBPQR9z6U5YyRSK4'
+  },
+  {
+    danceability: 0.751,
+    energy: 0.502,
+    mode: 1,
+    speechiness: 0.167,
+    acousticness: 0.2,
+    instrumentalness: 0,
+    liveness: 0.296,
+    valence: 0.106,
+    tempo: 108.943,
+    id: '0heeNYlwOGuUSe7TgUD27B'
+  }
+]
+
+module.exports = {midnight_features};

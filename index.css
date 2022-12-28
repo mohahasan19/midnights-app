@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background: url("https: //dailytargum.imgix.net/images/c5dc33aa-dda2-491e-a8b1-04d7ee8d15cd.jpg?ar=16:9&auto=compress&crop=faces&fit=crop&fm=webp&width=1200");
+    background-size: cover;
+}
+
+h1 {
+    margin-top: 150px;
+    text-align: center;
+    font-family: 'Josefin Sans';
+    font-size: 5.5vw;
+    color: deeppink;
+}
+
+.searchbar {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: lavenderblush;
+    height: 55px;
+    border-radius: 40px;
+    padding: 10px;
+}
+
+.searchbar:hover>.buscar-txt {
+    width: 240px;
+    padding: 0 6px;
+}
+
+.searchbar:hover>.search-btn {
+    background: white;
+    color: deeppink;
+}
+
+.search-btn {
+    color: fuchsia;
+    float: right;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: lavenderblush;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.4s;
+    color: white;
+    cursor: pointer;
+}
+
+.search-btn>i {
+    font-size: 30px;
+}
+
+.buscar-txt {
+    border: none;
+    background: none;
+    outline: none;
+    float: left;
+    padding: 0;
+    color: grey;
+    font-size: 16px;
+    transition: 0.4s;
+    line-height: 40px;
+    width: 0px;
+    font-weight: bold;
+}
